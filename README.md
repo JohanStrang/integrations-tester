@@ -1,4 +1,3 @@
-Här kommer integrationstest med en enkel mock getData för sökning av filmer. Dock är den några fel fortfarande i denna version som jag jobbar med.
-Det är en del av testkursen på Mediainstitutet FrontEnd Development. 
+Här kommer integrationstest med en enkel mock getData för sökning av filmer.
 
-Ibland strular allt och det känns som det gör det :-(. Först får jag inte sökningen att funka dvs visas inga filmer men det är kanske en del av testen att det inte ska funka? Jag har gått igenom koden och kommenterat den i "Working documents" för att kunna använbda detta när jag testar. Jag tycker det fungerar bra som ett första steg. Sedan har även testmiljön börjar strulat. Jag vet vilka kommandon jag ska skriva för jest och jdom men det har strulat ändå. Jag har gått igenom och skrivet testerna som jag tycker på ett strukturerat sätt men pga strul och annat så fungerar inte testerna som jag tänkt det. Jag tycker också att tester inte är helt lätt så känns som jag behöver ta ett omtag på dessa men just nu känns det som det baar strular. Jag har diock lagt upp det jag gjort även om det är en del fel kvar så att du kan se vad jag gjort och kanske komma med något råd.
+Jag har lagt tyill en extra test för att visa test av Mockdata.
